@@ -11,6 +11,8 @@ namespace RefCurveToColider
         RefCollider[] RefColliders;
     }
 
+    // money!
+
     class RefCollider
     {
         private int curveIndex { get; set; } //index of this collider in its series
